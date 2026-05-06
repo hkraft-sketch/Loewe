@@ -1,0 +1,65 @@
+{
+  "style": "Professional industrial product photography, dramatic side lighting, deep shadows, anthracite-and-warm-yellow color palette, high detail, photorealistic, magazine quality, shot on Sony A7 with 35 mm lens, no logos, no text on container.",
+  "images": [
+    {
+      "slug": "hero",
+      "ratio": "16:9",
+      "prompt": "Wide cinematic photograph of a German waste-management container yard at golden hour. Multiple yellow industrial roll-off containers and skips arranged in neat rows, a forklift in the mid-ground, a stacked row of shipping containers in the background. Anthracite asphalt, low warm sun, long shadows, fine atmospheric haze. Premium industrial mood, no people, no text."
+    },
+    {
+      "slug": "about",
+      "ratio": "16:9",
+      "prompt": "Two engineers in clean industrial uniforms with subtle yellow accents inspecting a row of brand-new yellow steel waste containers in a German manufacturing hall. Cinematic side light from large factory windows, polished concrete floor, organised production line in the background. Documentary photography, photorealistic."
+    },
+    {
+      "slug": "abfallsammelbehaelter",
+      "ratio": "1:1",
+      "prompt": "Single rectangular yellow industrial waste collection container with two-wheel base and dark grey lid, placed on an anthracite concrete floor. Studio lighting, neutral grey gradient backdrop, sharp product photography, light reflections on the steel surface."
+    },
+    {
+      "slug": "abrollcontainer",
+      "ratio": "1:1",
+      "prompt": "Yellow steel roll-off container with reinforced ribs, three-quarter side view, parked on dark asphalt, soft overcast daylight, no truck, no background distractions, neutral grey backdrop, product photography style."
+    },
+    {
+      "slug": "absetzcontainer",
+      "ratio": "1:1",
+      "prompt": "Yellow heavy-duty skip container (German Absetzcontainer) with sloped open top and corner lifting eyes, three-quarter view, isolated on a clean anthracite floor with a soft grey gradient background, dramatic side light, professional product photography."
+    },
+    {
+      "slug": "buerocontainer",
+      "ratio": "1:1",
+      "prompt": "Modern modular site office container in clean light grey with anthracite trim and a single yellow accent stripe, two windows and a door with steps, three-quarter view, set on neutral concrete ground with a clean grey backdrop, daylight."
+    },
+    {
+      "slug": "lagercontainer",
+      "ratio": "1:1",
+      "prompt": "Twenty-foot yellow steel storage container with double doors open, revealing tidy industrial shelving and crates inside, three-quarter angle, neutral grey backdrop, soft directional light, professional commercial photography."
+    },
+    {
+      "slug": "minicontainer",
+      "ratio": "1:1",
+      "prompt": "Compact 1100-litre yellow four-wheel industrial waste bin with a flat lid, isolated on anthracite ground with a soft grey gradient background, sharp studio lighting, professional product photography."
+    },
+    {
+      "slug": "muellgrossbehaelter",
+      "ratio": "1:1",
+      "prompt": "Row of three yellow large mobile garbage bins (Müllgroßbehälter, MGB 1100 l) lined up against a clean dark wall, slight perspective, soft overcast light, professional product photography."
+    },
+    {
+      "slug": "sanitaercontainer",
+      "ratio": "1:1",
+      "prompt": "Modern grey-yellow sanitary container module with two doors marked W C, tinted windows, mounted on small stand, three-quarter view on a neutral construction-site floor, soft diffused daylight, clean modern aesthetic."
+    },
+    {
+      "slug": "seecontainer",
+      "ratio": "1:1",
+      "prompt": "Yellow forty-foot ISO shipping container, three-quarter view, doors closed, weathered but clean, isolated on dark asphalt with a clean grey backdrop, dramatic late-afternoon side light, professional industrial photography."
+    },
+    {
+      "slug": "wertstoffbehaelter",
+      "ratio": "1:1",
+      "prompt": "Tall yellow recycling drop-off container with three openings for glass, paper and plastic, urban courtyard floor, soft overcast daylight, clean composition, professional product photography."
+    }
+  ]
+}
